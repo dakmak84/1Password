@@ -240,4 +240,4 @@
 </table>
 
 ---
-**Last updated:** 2026-09-19 07:00:05 UTC
+**Last updated:** 2026-09-19 11:54:20 UTC
